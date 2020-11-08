@@ -1,0 +1,2 @@
+# KGProgress2020fromSemWeb
+从语义网视角看知识图谱的近期研究进展
