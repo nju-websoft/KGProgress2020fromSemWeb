@@ -14,17 +14,50 @@
 
 ### 知识图谱表示学习
 
+* Liu et al. Generalizing Tensor Decomposition for N-ary Relational Knowledge Bases. WWW 2020
+
+* Bhowmik & Melo. Explainable Link Prediction for Emerging Entities in Knowledge Graphs. ISWC 2020
+
+* Xu et al. Temporal Knowledge Graph Completion Based on Time Series Gaussian Embedding. ISWC 2020
 
 ### 知识抽取与图谱构建
 
+* Harting et al. LOREM: Language-consistent Open Relation Extraction from Unstructured Text. WWW 2020
+
+* Zhang et al. Relation Adversarial Network for Low Resource Knowledge Graph Completion. WWW 2020
+
+* Cao et al. Open Knowledge Enrichment for Long-tail Enrichment. WWW 2020
 
 ### 实体对齐
 
+* Zhu et al. Collective Multi-type Entity Alignment Between Knowledge Graphs. WWW 2020
+
+* Chen et al. Learning Short-term Differences and Long-term Dependencies for Entity Alignment. ISWC 2020
+
+* Zhang et al. Multi-Context Attention for Entity Matching. WWW 2020
 
 ### 搜索、摘要与推荐
 
+* Liu et al. Entity Summarization with User Feedback. ESWC 2020
+
+* Lyu et al. Rule-Guided Graph Neural Networks for Recommender Systems. ISWC 2020
 
 ### 知识图谱问答
 
+* Banerjee et al. PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs. ISWC 2020
+
+* Banerjee et al. PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs. ISWC 2020
+
+### 新数据集
+
+* Jimenez-Ruiz et al. SemTab 2019: Resources to Benchmark Tabular Data to Knowledge Graph Matching Systems. ESWC 2020
+
+* Singh et al. OWL2Bench: A Benchmark for OWL 2 Reasoners. ISWC 2020
+
+* Kolbe et al. LOVBench: Ontology Ranking Benchmark. WWW 2020
+
+* Liu et al. ESBM: An Entity Summarization BenchMark. ESWC 2020
+
+* Kacupaj  et al. VQuAnDa: Verbalization QUestion ANswering DAtaset. ESWC 2020
 
 
