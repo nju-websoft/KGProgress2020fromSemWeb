@@ -46,7 +46,7 @@
 
 * Banerjee et al. PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs. ISWC 2020
 
-* Banerjee et al. PNEL: Pointer Network based End-To-End Entity Linking over Knowledge Graphs. ISWC 2020
+* Mihindukulasooriya et al. Leveraging Semantic Parsing For Relation Linking Over Knowledge Bases. ISWC 2020
 
 ### 新数据集
 
@@ -58,6 +58,6 @@
 
 * Liu et al. ESBM: An Entity Summarization BenchMark. ESWC 2020
 
-* Kacupaj  et al. VQuAnDa: Verbalization QUestion ANswering DAtaset. ESWC 2020
+* Kacupaj et al. VQuAnDa: Verbalization QUestion ANswering DAtaset. ESWC 2020
 
 
