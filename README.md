@@ -50,7 +50,7 @@
 
 ### 新数据集
 
-* Jimenez-Ruiz et al. SemTab 2019: Resources to Benchmark Tabular Data to Knowledge Graph Matching Systems. ESWC 2020
+* Jim&#233;nez-Ruiz et al. SemTab 2019: Resources to Benchmark Tabular Data to Knowledge Graph Matching Systems. ESWC 2020
 
 * Singh et al. OWL2Bench: A Benchmark for OWL 2 Reasoners. ISWC 2020
 
